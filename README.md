@@ -1,1 +1,1 @@
-# Aulas_e_desafios_curso_HTML-CSS
+# Aulas e desafios do curso de HTML/CSS
